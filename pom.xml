@@ -30,7 +30,7 @@
 	</scm>
 	<properties>
 		<Test-Diciplina-modelVersion>3.3.4</Test-Diciplina-modelVersion>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
